@@ -10,10 +10,23 @@ h1 {
   p {
     font-family: sans-serif;
   }
-  ul {
+  ul,ol {
     line-height: 40px;
   }
   img{
       height: 500px;
       width: 500px;
+  }
+  strong{
+      font-style: italic;
+  }
+  em{
+      font-weight: bold;
+  }
+  ol, ul{
+      background-color: aqua;
+  }
+  a{
+      font-size: 4vh;
+      color: maroon;
   }
