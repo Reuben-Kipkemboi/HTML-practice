@@ -13,3 +13,7 @@ h1 {
   ul {
     line-height: 40px;
   }
+  img{
+      height: 500px;
+      width: 500px;
+  }
